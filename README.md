@@ -195,3 +195,4 @@ By combining TF-IDF, Cosine Similarity, and Streamlit, the project provides a si
 
 The project can be extended into a more comprehensive assistant by incorporating verified data sources, multilingual capabilities, and semantic retrieval.
 
+![ml](https://github.com/rushikeshwalode06-cod/-SchemeSathi-AI-Government-Scheme-Assistant/blob/main/SchmeSathi%20image.png?raw=true)
