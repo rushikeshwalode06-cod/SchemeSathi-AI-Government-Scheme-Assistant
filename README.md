@@ -47,6 +47,8 @@ The system compares the user's query with information available in its demonstra
 
 SchemeSathi AI uses a **content-based text retrieval approach**, rather than a trained generative AI model.
 
+![ml](https://github.com/rushikeshwalode06-cod/-SchemeSathi-AI-Government-Scheme-Assistant/blob/main/SchemeSati%20model%20image.png?raw=true)
+
 ### How the System Works
 
 🧠 How the System Works
